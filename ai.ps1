@@ -1,2 +1,2 @@
 Add-Type -AssemblyName System.Windows.Forms
-[System.Windows.Forms.MessageBox]::Show('Do not trust AI', 'Warning', 'OK', 'Warning')
+[System.Windows.Forms.MessageBox]::Show('Clippy says: Do not trust AI', 'Warning', 'OK', 'Warning')
